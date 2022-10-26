@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Postulación</title>
-    <script type="module" crossorigin src="/build/assets/app.14b72f3d.js"></script>
-    <link rel="stylesheet" href="/build/assets/app.71e17aee.css">
+    <script type="module" crossorigin src="/build/assets/app.99365a09.js"></script>
+    <link rel="stylesheet" href="/build/assets/app.47e0b5e9.css">
     {{--    @vite(['resources/js/app.js', 'resources/css/app.css'])--}}
 </head>
 <body>
